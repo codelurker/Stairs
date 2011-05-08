@@ -1,0 +1,2 @@
+Stars, game with PyGame
+==================
